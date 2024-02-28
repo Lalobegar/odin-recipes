@@ -1,0 +1,28 @@
+h1 {
+    background-color: #3085b6;
+    color: rgb(255, 255, 255);
+    font-size: 36px;
+}
+
+h2 {
+    background-color: #3085b6;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+}
+
+p {
+    font-size: 24px;
+}
+
+.ingredients {
+    color: darkolivegreen;
+    font-weight: 900;
+}
+
+.instructions {
+    color: rgb(0, 0, 0);
+}
+
+.ingredients, .instructions {
+    font-size: 22px;
+}
